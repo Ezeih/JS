@@ -1,0 +1,48 @@
+body {
+	background-image: url('background1.png');
+	font-family: courier;
+}
+
+#logo{
+	padding-top: 1cm;
+	    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+
+}
+
+#logo img {
+
+	width: 100px;
+	height: 100px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	 border: 2px solid #A15C5C;
+
+
+	}
+
+.title{
+	color:#A15C5C;
+    font-family:courier;
+    text-align:center;
+    font-size:200%;
+    padding-bottom: 1cm;
+
+}
+
+#size{
+	color:#A15C5C;
+    text-align: center;
+    font-size:150%;
+}
+
+.spelplan {
+	color: #A15C5C;
+	text-align: center;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+}
